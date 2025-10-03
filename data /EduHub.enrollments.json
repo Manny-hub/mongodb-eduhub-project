@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6baca"
+  },
+  "enrollmentId": "0001",
+  "courseId": "JSC",
+  "studentId": "user_3",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.069Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bacb"
+  },
+  "enrollmentId": "0002",
+  "courseId": "DAS",
+  "studentId": "user_4",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.071Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.071Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bacc"
+  },
+  "enrollmentId": "0003",
+  "courseId": "DAS",
+  "studentId": "user_6",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.072Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.072Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bacd"
+  },
+  "enrollmentId": "0004",
+  "courseId": "DAS",
+  "studentId": "user_13",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.074Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bace"
+  },
+  "enrollmentId": "0005",
+  "courseId": "JSC",
+  "studentId": "user_6",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.075Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bacf"
+  },
+  "enrollmentId": "0006",
+  "courseId": "EXL",
+  "studentId": "user_15",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.076Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad0"
+  },
+  "enrollmentId": "0007",
+  "courseId": "DVI",
+  "studentId": "user_8",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.078Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad1"
+  },
+  "enrollmentId": "0008",
+  "courseId": "JSC",
+  "studentId": "user_14",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.079Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.079Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad2"
+  },
+  "enrollmentId": "0009",
+  "courseId": "PYT",
+  "studentId": "user_12",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.080Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.080Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad3"
+  },
+  "enrollmentId": "0010",
+  "courseId": "EXL",
+  "studentId": "user_5",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.081Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.081Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad4"
+  },
+  "enrollmentId": "0011",
+  "courseId": "DAS",
+  "studentId": "user_6",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.082Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad5"
+  },
+  "enrollmentId": "0012",
+  "courseId": "DAS",
+  "studentId": "user_4",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.082Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad6"
+  },
+  "enrollmentId": "0013",
+  "courseId": "PYT",
+  "studentId": "user_7",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.083Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad7"
+  },
+  "enrollmentId": "0014",
+  "courseId": "DEG",
+  "studentId": "user_10",
+  "startDate": {
+    "$date": "2025-10-02T08:34:22.085Z"
+  },
+  "endDate": {
+    "$date": "2025-11-13T08:34:22.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2b03de87aa09a1f6bafc"
+  },
+  "enrollmentId": "0016",
+  "courseId": "PYT",
+  "studentId": "user_21",
+  "startDate": {
+    "$date": "2025-10-02T08:34:27.089Z"
+  },
+  "endDate": {
+    "$date": "2025-12-11T08:34:27.089Z"
+  }
+}]

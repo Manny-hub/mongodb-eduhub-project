@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baee"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6bae2"
+  },
+  "assignmentId": "a_0007",
+  "studentId": "user_4",
+  "description": "Submission for a_0007",
+  "submissionDate": {
+    "$date": "2025-10-02T08:34:23.502Z"
+  },
+  "isSubmitted": false,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baef"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6bae3"
+  },
+  "assignmentId": "a_0002",
+  "studentId": "user_1",
+  "description": "Submission for a_0001",
+  "submissionDate": {
+    "$date": "2025-09-30T08:34:23.502Z"
+  },
+  "isSubmitted": true,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf0"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6bae4"
+  },
+  "assignmentId": "a_0008",
+  "studentId": "user_1",
+  "description": "Submission for a_0008",
+  "submissionDate": {
+    "$date": "2025-09-25T08:34:23.502Z"
+  },
+  "isSubmitted": true,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf1"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6bae5"
+  },
+  "assignmentId": "a_0004",
+  "studentId": "user_15",
+  "description": "Submission for a_0001",
+  "submissionDate": {
+    "$date": "2025-10-02T08:34:23.502Z"
+  },
+  "isSubmitted": false,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf2"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6bae6"
+  },
+  "assignmentId": "a_0000",
+  "studentId": "user_3",
+  "description": "Submission for a_0002",
+  "submissionDate": {
+    "$date": "2025-09-25T08:34:23.502Z"
+  },
+  "isSubmitted": false,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf3"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6bae7"
+  },
+  "assignmentId": "a_0001",
+  "studentId": "user_6",
+  "description": "Submission for a_0001",
+  "submissionDate": {
+    "$date": "2025-09-29T08:34:23.502Z"
+  },
+  "isSubmitted": false,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf4"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6bae8"
+  },
+  "assignmentId": "a_0002",
+  "studentId": "user_3",
+  "description": "Submission for a_0006",
+  "submissionDate": {
+    "$date": "2025-09-29T08:34:23.502Z"
+  },
+  "isSubmitted": false,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf5"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6bae9"
+  },
+  "assignmentId": "a_0002",
+  "studentId": "user_7",
+  "description": "Submission for a_0009",
+  "submissionDate": {
+    "$date": "2025-09-27T08:34:23.502Z"
+  },
+  "isSubmitted": false,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf6"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6baea"
+  },
+  "assignmentId": "a_0007",
+  "studentId": "user_9",
+  "description": "Submission for a_0003",
+  "submissionDate": {
+    "$date": "2025-10-01T08:34:23.502Z"
+  },
+  "isSubmitted": false,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf7"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6baeb"
+  },
+  "assignmentId": "a_0007",
+  "studentId": "user_4",
+  "description": "Submission for a_0005",
+  "submissionDate": {
+    "$date": "2025-10-01T08:34:23.502Z"
+  },
+  "isSubmitted": false,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf8"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6baec"
+  },
+  "assignmentId": "a_0003",
+  "studentId": "user_13",
+  "description": "Submission for a_0002",
+  "submissionDate": {
+    "$date": "2025-09-23T08:34:23.502Z"
+  },
+  "isSubmitted": true,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+},
+{
+  "_id": {
+    "$oid": "68de2affde87aa09a1f6baf9"
+  },
+  "_Id": {
+    "$oid": "68de2affde87aa09a1f6baed"
+  },
+  "assignmentId": "a_0007",
+  "studentId": "user_1",
+  "description": "Submission for a_0004",
+  "submissionDate": {
+    "$date": "2025-09-29T08:34:23.502Z"
+  },
+  "isSubmitted": false,
+  "fileUrl": "https://example.com/uploads/user1_project.zip"
+}]

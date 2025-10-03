@@ -1,0 +1,674 @@
+[{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bab1"
+  },
+  "lessonId": "lesson_335",
+  "chapter": "Chapter 20",
+  "description": "Lesson on Data Engineering",
+  "courseId": "DEG",
+  "instructorId": "user_17",
+  "duration": 5,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.072Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.072Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bab2"
+  },
+  "lessonId": "lesson_327",
+  "chapter": "Chapter 12",
+  "description": "Lesson on MongoDB",
+  "courseId": "EXL",
+  "instructorId": "user_20",
+  "duration": 3,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.073Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bab3"
+  },
+  "lessonId": "lesson_327",
+  "chapter": "Chapter 10",
+  "description": "Lesson on MongoDB",
+  "courseId": "EXL",
+  "instructorId": "user_20",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.075Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.075Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bab4"
+  },
+  "lessonId": "lesson_260",
+  "chapter": "Chapter 3",
+  "description": "Lesson on MongoDB",
+  "courseId": "EXL",
+  "instructorId": "user_20",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.076Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.076Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bab5"
+  },
+  "lessonId": "lesson_313",
+  "chapter": "Chapter 17",
+  "description": "Lesson on Python",
+  "courseId": "PYT",
+  "instructorId": "user_18",
+  "duration": 10,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.077Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bab6"
+  },
+  "lessonId": "lesson_306",
+  "chapter": "Chapter 19",
+  "description": "Lesson on Data Analysis",
+  "courseId": "DAS",
+  "instructorId": "user_19",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.078Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bab7"
+  },
+  "lessonId": "lesson_278",
+  "chapter": "Chapter 11",
+  "description": "Lesson on Data Science",
+  "courseId": "DSI",
+  "instructorId": "user_16",
+  "duration": 4,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.079Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.079Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bab8"
+  },
+  "lessonId": "lesson_110",
+  "chapter": "Chapter 15",
+  "description": "Lesson on Data Engineering",
+  "courseId": "DEG",
+  "instructorId": "user_17",
+  "duration": 5,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.081Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bab9"
+  },
+  "lessonId": "lesson_448",
+  "chapter": "Chapter 6",
+  "description": "Lesson on Data Science",
+  "courseId": "DSI",
+  "instructorId": "user_16",
+  "duration": 3,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.082Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.082Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6baba"
+  },
+  "lessonId": "lesson_420",
+  "chapter": "Chapter 13",
+  "description": "Lesson on MongoDB",
+  "courseId": "EXL",
+  "instructorId": "user_20",
+  "duration": 3,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.082Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.082Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6babb"
+  },
+  "lessonId": "lesson_249",
+  "chapter": "Chapter 9",
+  "description": "Lesson on Data Analysis",
+  "courseId": "DAS",
+  "instructorId": "user_19",
+  "duration": 3,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.083Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6babc"
+  },
+  "lessonId": "lesson_357",
+  "chapter": "Chapter 11",
+  "description": "Lesson on Python",
+  "courseId": "PYT",
+  "instructorId": "user_18",
+  "duration": 5,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.084Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6babd"
+  },
+  "lessonId": "lesson_185",
+  "chapter": "Chapter 16",
+  "description": "Lesson on Data Engineering",
+  "courseId": "DEG",
+  "instructorId": "user_17",
+  "duration": 5,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.085Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6babe"
+  },
+  "lessonId": "lesson_145",
+  "chapter": "Chapter 13",
+  "description": "Lesson on MongoDB",
+  "courseId": "EXL",
+  "instructorId": "user_20",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.086Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.086Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6babf"
+  },
+  "lessonId": "lesson_193",
+  "chapter": "Chapter 18",
+  "description": "Lesson on Data Analysis",
+  "courseId": "DAS",
+  "instructorId": "user_19",
+  "duration": 6,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.087Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bac0"
+  },
+  "lessonId": "lesson_460",
+  "chapter": "Chapter 19",
+  "description": "Lesson on Data Engineering",
+  "courseId": "DEG",
+  "instructorId": "user_17",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.088Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bac1"
+  },
+  "lessonId": "lesson_483",
+  "chapter": "Chapter 5",
+  "description": "Lesson on MongoDB",
+  "courseId": "EXL",
+  "instructorId": "user_20",
+  "duration": 6,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.089Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bac2"
+  },
+  "lessonId": "lesson_196",
+  "chapter": "Chapter 7",
+  "description": "Lesson on Data Science",
+  "courseId": "DSI",
+  "instructorId": "user_16",
+  "duration": 4,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.090Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.090Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bac3"
+  },
+  "lessonId": "lesson_486",
+  "chapter": "Chapter 1",
+  "description": "Lesson on Data Engineering",
+  "courseId": "DEG",
+  "instructorId": "user_17",
+  "duration": 5,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.091Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.091Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bac4"
+  },
+  "lessonId": "lesson_248",
+  "chapter": "Chapter 1",
+  "description": "Lesson on Data Analysis",
+  "courseId": "DAS",
+  "instructorId": "user_19",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.092Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bac5"
+  },
+  "lessonId": "lesson_167",
+  "chapter": "Chapter 7",
+  "description": "Lesson on Data Analysis",
+  "courseId": "DAS",
+  "instructorId": "user_19",
+  "duration": 6,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.093Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.093Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bac6"
+  },
+  "lessonId": "lesson_243",
+  "chapter": "Chapter 6",
+  "description": "Lesson on Data Analysis",
+  "courseId": "DAS",
+  "instructorId": "user_19",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.094Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.094Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bac7"
+  },
+  "lessonId": "lesson_395",
+  "chapter": "Chapter 17",
+  "description": "Lesson on Data Analysis",
+  "courseId": "DAS",
+  "instructorId": "user_19",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.095Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.095Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afdde87aa09a1f6bac8"
+  },
+  "lessonId": "lesson_340",
+  "chapter": "Chapter 19",
+  "description": "Lesson on Data Analysis",
+  "courseId": "DAS",
+  "instructorId": "user_19",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:21.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:21.096Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2b04de87aa09a1f6bafd"
+  },
+  "lessonId": "lesson_26",
+  "courseId": "GOT",
+  "title": "Introduction to Go",
+  "content": "This is the content of the lesson.",
+  "duration": 2,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:28.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:28.138Z"
+  },
+  "resources": [
+    {
+      "type": "video",
+      "url": "https://example.com/default_video.mp4"
+    },
+    {
+      "type": "pdf",
+      "url": "https://example.com/default_doc.pdf"
+    }
+  ]
+}]

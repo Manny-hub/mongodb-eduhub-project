@@ -1,0 +1,1387 @@
+[{
+  "_id": {
+    "$oid": "68de2afcde87aa09a1f6baa8"
+  },
+  "courseId": "PYT",
+  "title": "Python",
+  "description": "Learn Python from scratch",
+  "instructorId": "user_18",
+  "category": "Programming",
+  "level": "intermediate",
+  "duration": 1680,
+  "tags": [
+    "Python",
+    "Programming"
+  ],
+  "price": 191,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "isPublished": true,
+  "ratings": [
+    {
+      "studentId": "user_1",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_2",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_3",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_4",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_5",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_6",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_7",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_8",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_9",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_10",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_11",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_12",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_13",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_14",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_15",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    },
+    {
+      "studentId": "user_21",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.663Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afcde87aa09a1f6baa9"
+  },
+  "courseId": "EXL",
+  "title": "MongoDB",
+  "description": "Learn MongoDB from scratch",
+  "instructorId": "user_20",
+  "category": "Database",
+  "level": "beginner",
+  "duration": 1008,
+  "tags": [
+    "Python",
+    "Database"
+  ],
+  "price": 192,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "isPublished": false,
+  "ratings": [
+    {
+      "studentId": "user_1",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_2",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_3",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_4",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_5",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_6",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_7",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_8",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_9",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_10",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_11",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_12",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_13",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_14",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_15",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    },
+    {
+      "studentId": "user_21",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.668Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afcde87aa09a1f6baaa"
+  },
+  "courseId": "JSC",
+  "title": "JavaScript",
+  "description": "Learn JavaScript from scratch",
+  "instructorId": "user_20",
+  "category": "Programming",
+  "level": "intermediate",
+  "duration": 1680,
+  "tags": [
+    "JavaScript",
+    "Programming"
+  ],
+  "price": 142,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "isPublished": false,
+  "ratings": [
+    {
+      "studentId": "user_1",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.673Z"
+      }
+    },
+    {
+      "studentId": "user_2",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_3",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_4",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_5",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_6",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_7",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_8",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_9",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_10",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_11",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_12",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_13",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_14",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_15",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    },
+    {
+      "studentId": "user_21",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.674Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afcde87aa09a1f6baab"
+  },
+  "courseId": "DSI",
+  "title": "Data Science",
+  "description": "Learn Data Science from scratch",
+  "instructorId": "user_16",
+  "category": "Data",
+  "level": "beginner",
+  "duration": 1512,
+  "tags": [
+    "Python",
+    "Data"
+  ],
+  "price": 106,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "isPublished": false,
+  "ratings": [
+    {
+      "studentId": "user_1",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_2",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_3",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_4",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_5",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_6",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_7",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_8",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_9",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_10",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_11",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_12",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_13",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.676Z"
+      }
+    },
+    {
+      "studentId": "user_14",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.677Z"
+      }
+    },
+    {
+      "studentId": "user_15",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.677Z"
+      }
+    },
+    {
+      "studentId": "user_21",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.677Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afcde87aa09a1f6baac"
+  },
+  "courseId": "DEG",
+  "title": "Data Engineering",
+  "description": "Learn Data Engineering from scratch",
+  "instructorId": "user_17",
+  "category": "Data",
+  "level": "beginner",
+  "duration": 840,
+  "tags": [
+    "Python",
+    "Programming"
+  ],
+  "price": 69,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "isPublished": false,
+  "ratings": [
+    {
+      "studentId": "user_1",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_2",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_3",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_4",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_5",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_6",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_7",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_8",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_9",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_10",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_11",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_12",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_13",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_14",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_15",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    },
+    {
+      "studentId": "user_21",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.681Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afcde87aa09a1f6baad"
+  },
+  "courseId": "DVI",
+  "title": "Data Visualization",
+  "description": "Learn Data Visualization from scratch",
+  "instructorId": "user_20",
+  "category": "Data",
+  "level": "intermediate",
+  "duration": 840,
+  "tags": [
+    "Python",
+    "Programming"
+  ],
+  "price": 132,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "isPublished": false,
+  "ratings": [
+    {
+      "studentId": "user_1",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_2",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_3",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_4",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_5",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_6",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_7",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_8",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_9",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_10",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_11",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_12",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_13",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_14",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_15",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    },
+    {
+      "studentId": "user_21",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.682Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afcde87aa09a1f6baae"
+  },
+  "courseId": "SQL",
+  "title": "SQL",
+  "description": "Learn SQL from scratch",
+  "instructorId": "user_18",
+  "category": "Database",
+  "level": "intermediate",
+  "duration": 1512,
+  "tags": [
+    "SQL",
+    "Database"
+  ],
+  "price": 198,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "isPublished": false,
+  "ratings": [
+    {
+      "studentId": "user_1",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_2",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_3",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_4",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_5",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_6",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_7",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_8",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_9",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_10",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.684Z"
+      }
+    },
+    {
+      "studentId": "user_11",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.685Z"
+      }
+    },
+    {
+      "studentId": "user_12",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.685Z"
+      }
+    },
+    {
+      "studentId": "user_13",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.685Z"
+      }
+    },
+    {
+      "studentId": "user_14",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.685Z"
+      }
+    },
+    {
+      "studentId": "user_15",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.685Z"
+      }
+    },
+    {
+      "studentId": "user_21",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.685Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afcde87aa09a1f6baaf"
+  },
+  "courseId": "DAS",
+  "title": "Data Analysis",
+  "description": "Learn Data Analysis from scratch",
+  "instructorId": "user_19",
+  "category": "Data",
+  "level": "advanced",
+  "duration": 1008,
+  "tags": [
+    "Excel",
+    "Analysis"
+  ],
+  "price": 123,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:20.060Z"
+  },
+  "isPublished": false,
+  "ratings": [
+    {
+      "studentId": "user_1",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_2",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_3",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_4",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_5",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_6",
+      "rating": 2,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_7",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_8",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_9",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_10",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_11",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_12",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_13",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_14",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_15",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    },
+    {
+      "studentId": "user_21",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.686Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2b02de87aa09a1f6bafb"
+  },
+  "courseId": "GOT",
+  "title": "Go",
+  "description": "Learn Go from scratch",
+  "instructorId": "user_20",
+  "category": "Programming",
+  "level": "intermediate",
+  "duration": 672,
+  "tags": [
+    "Go",
+    "Programming",
+    "Backend"
+  ],
+  "price": 157,
+  "createdAt": {
+    "$date": "2025-10-02T08:34:26.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:36.330Z"
+  },
+  "isPublished": true,
+  "ratings": [
+    {
+      "studentId": "user_1",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_2",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_3",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_4",
+      "rating": 5,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_5",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_6",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_7",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_8",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_9",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_10",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_11",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_12",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_13",
+      "rating": 1,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_14",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_15",
+      "rating": 3,
+      "comment": "Can be improved, thanks",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    },
+    {
+      "studentId": "user_21",
+      "rating": 4,
+      "comment": "Great course, would recommend it",
+      "ratedAt": {
+        "$date": "2025-10-02T13:56:21.688Z"
+      }
+    }
+  ]
+}]

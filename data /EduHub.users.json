@@ -1,0 +1,472 @@
+[{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba94"
+  },
+  "userId": "user_1",
+  "firstname": "Adams",
+  "lastname": "Barbara",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-09-03T08:34:18.823Z"
+  },
+  "profile": {
+    "bio": "Tree adult player race four. Ready page couple scene power any wife. Realize night full product consider decade reflect.\nShoulder theory score reveal child test. Player same entire more candidate.",
+    "avatar": "https://dummyimage.com/700x311",
+    "skills": [
+      "analysis",
+      "sql"
+    ]
+  },
+  "is_active": false,
+  "email": "adams.barbara@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba95"
+  },
+  "userId": "user_2",
+  "firstname": "Sarah",
+  "lastname": "Anderson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-11-21T08:34:18.826Z"
+  },
+  "profile": {
+    "bio": "Oil nation reveal player activity several.\nWall seem can table response material what contain. Young catch writer window four. Rate population place likely.",
+    "avatar": "https://placekitten.com/833/667",
+    "skills": [
+      "excel",
+      "analysis",
+      "sql"
+    ]
+  },
+  "is_active": false,
+  "email": "sarah.anderson@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba96"
+  },
+  "userId": "user_3",
+  "firstname": "Miller",
+  "lastname": "Grace",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-06-25T08:34:18.828Z"
+  },
+  "profile": {
+    "bio": "Society them central word. More student fine require artist.\nWho six news. Rest kind relationship teacher technology consumer.",
+    "avatar": "https://picsum.photos/200/76",
+    "skills": [
+      "programming",
+      "sql"
+    ]
+  },
+  "is_active": false,
+  "email": "miller.grace@eduhub.com",
+  "updatedAt": {
+    "$date": "2025-10-02T08:34:39.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba97"
+  },
+  "userId": "user_4",
+  "firstname": "Johnson",
+  "lastname": "Pelumi",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-08-17T08:34:18.831Z"
+  },
+  "profile": {
+    "bio": "Half take article hand front approach use. A standard bed season must traditional.\nEconomy necessary shoulder accept alone. After effect source mention. Road agent in situation baby.",
+    "avatar": "https://placekitten.com/340/452",
+    "skills": [
+      "analysis",
+      "programming"
+    ]
+  },
+  "is_active": false,
+  "email": "johnson.pelumi@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba98"
+  },
+  "userId": "user_5",
+  "firstname": "Linda",
+  "lastname": "Robert",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-15T08:34:18.832Z"
+  },
+  "profile": {
+    "bio": "Heavy skill ok again feel. Leave cause shoulder must wish evening. Trade yeah red fund small animal investment increase.",
+    "avatar": "https://placekitten.com/17/440",
+    "skills": [
+      "analysis",
+      "python",
+      "programming",
+      "sql"
+    ]
+  },
+  "is_active": true,
+  "email": "linda.robert@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba99"
+  },
+  "userId": "user_6",
+  "firstname": "Emily",
+  "lastname": "Alice",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-03T08:34:18.833Z"
+  },
+  "profile": {
+    "bio": "As able Congress particular officer end.\nStuff oil dog dog know. Movie through day campaign we from.\nToo room radio thank. Law citizen child son institution. Fine idea without money return.",
+    "avatar": "https://dummyimage.com/74x647",
+    "skills": [
+      "programming",
+      "sql",
+      "excel",
+      "python"
+    ]
+  },
+  "is_active": true,
+  "email": "emily.alice@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba9a"
+  },
+  "userId": "user_7",
+  "firstname": "Adams",
+  "lastname": "Susan",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-09-14T08:34:18.834Z"
+  },
+  "profile": {
+    "bio": "Middle foreign authority early standard. Player artist fly determine last leg. Despite heart instead. Imagine blue school.",
+    "avatar": "https://placekitten.com/474/446",
+    "skills": [
+      "analysis",
+      "python"
+    ]
+  },
+  "is_active": true,
+  "email": "adams.susan@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba9b"
+  },
+  "userId": "user_8",
+  "firstname": "Miller",
+  "lastname": "Sarah",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-09T08:34:18.836Z"
+  },
+  "profile": {
+    "bio": "Million carry together my. International world generation run.\nStock social beat main would stage. Five receive beat eye fear.\nCity do body test plan bit foreign. Thought thing if money. All go eat.",
+    "avatar": "https://placekitten.com/365/60",
+    "skills": [
+      "mathematics",
+      "sql",
+      "programming",
+      "python"
+    ]
+  },
+  "is_active": true,
+  "email": "miller.sarah@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba9d"
+  },
+  "userId": "user_10",
+  "firstname": "Jones",
+  "lastname": "Jennifer",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-09-11T08:34:18.837Z"
+  },
+  "profile": {
+    "bio": "Walk production pattern sense lot full. Animal half example soon. Program alone traditional foreign school act father.",
+    "avatar": "https://placekitten.com/428/815",
+    "skills": [
+      "python",
+      "programming",
+      "sql",
+      "excel",
+      "mathematics"
+    ]
+  },
+  "is_active": false,
+  "email": "jones.jennifer@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba9e"
+  },
+  "userId": "user_11",
+  "firstname": "Miller",
+  "lastname": "Ruth",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-08-14T08:34:18.837Z"
+  },
+  "profile": {
+    "bio": "Score interesting early. Describe maintain Republican.\nHalf suffer off others. Family easy hot partner store share dinner.\nWant similar try successful. Stay fly day develop trade leader.",
+    "avatar": "https://picsum.photos/61/997",
+    "skills": [
+      "mathematics",
+      "analysis"
+    ]
+  },
+  "is_active": false,
+  "email": "miller.ruth@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6ba9f"
+  },
+  "userId": "user_12",
+  "firstname": "Sarah",
+  "lastname": "Alice",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-04-25T08:34:18.838Z"
+  },
+  "profile": {
+    "bio": "Trouble simple garden newspaper. Say serve security marriage ask hospital. Street popular ago have likely sport degree amount.",
+    "avatar": "https://picsum.photos/105/407",
+    "skills": [
+      "excel",
+      "mathematics",
+      "python"
+    ]
+  },
+  "is_active": true,
+  "email": "sarah.alice@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6baa0"
+  },
+  "userId": "user_13",
+  "firstname": "John",
+  "lastname": "Mary",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-08-30T08:34:18.838Z"
+  },
+  "profile": {
+    "bio": "Throw employee nearly design field. Represent resource food admit for compare least ahead.\nWife wall player next red short. Deal interest common. Always music often voice red ask hair.",
+    "avatar": "https://placekitten.com/10/311",
+    "skills": [
+      "excel",
+      "analysis",
+      "sql",
+      "programming",
+      "python"
+    ]
+  },
+  "is_active": false,
+  "email": "john.mary@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6baa1"
+  },
+  "userId": "user_14",
+  "firstname": "Williams",
+  "lastname": "Thomas",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-07-30T08:34:18.838Z"
+  },
+  "profile": {
+    "bio": "Behind side year room. Think beautiful once care must environment.",
+    "avatar": "https://placekitten.com/589/28",
+    "skills": [
+      "sql",
+      "analysis",
+      "excel",
+      "mathematics",
+      "python"
+    ]
+  },
+  "is_active": false,
+  "email": "williams.thomas@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6baa2"
+  },
+  "userId": "user_15",
+  "firstname": "Doe",
+  "lastname": "Elizabeth",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-08-13T08:34:18.839Z"
+  },
+  "profile": {
+    "bio": "Author behind later during fall others. Senior then fill morning cultural bank. Figure artist sing few of wife.\nColor purpose budget church card. No take year husband.",
+    "avatar": "https://dummyimage.com/108x496",
+    "skills": [
+      "programming",
+      "analysis",
+      "excel"
+    ]
+  },
+  "is_active": false,
+  "email": "doe.elizabeth@eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6baa3"
+  },
+  "userId": "user_16",
+  "firstname": "Cooper",
+  "lastname": "Jennifer",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-01-11T08:34:18.839Z"
+  },
+  "profile": {
+    "bio": "Although view assume recognize. Sport water training perform scientist around large.\nKnow project life eat. Republican available painting could stage.",
+    "avatar": "https://placekitten.com/139/871",
+    "skills": [
+      "excel",
+      "analysis",
+      "python",
+      "programming"
+    ]
+  },
+  "is_active": false,
+  "email": "cooper.jennifer@instructor.eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6baa4"
+  },
+  "userId": "user_17",
+  "firstname": "Doe",
+  "lastname": "Thomas",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2024-07-15T08:34:18.840Z"
+  },
+  "profile": {
+    "bio": "Family support along learn however theory. Increase guess admit hold price.\nLow painting mention Mr.",
+    "avatar": "https://picsum.photos/788/877",
+    "skills": [
+      "sql",
+      "python",
+      "mathematics",
+      "analysis",
+      "excel"
+    ]
+  },
+  "is_active": true,
+  "email": "doe.thomas@instructor.eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6baa5"
+  },
+  "userId": "user_18",
+  "firstname": "James",
+  "lastname": "Robert",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-04-25T08:34:18.840Z"
+  },
+  "profile": {
+    "bio": "Sister approach glass purpose board. Kid tree policy laugh.\nInside station land since. Number home room south visit himself force. Yeah debate him machine recently Mrs.",
+    "avatar": "https://picsum.photos/521/119",
+    "skills": [
+      "sql",
+      "mathematics",
+      "analysis"
+    ]
+  },
+  "is_active": false,
+  "email": "james.robert@instructor.eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6baa6"
+  },
+  "userId": "user_19",
+  "firstname": "James",
+  "lastname": "Jessica",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2024-10-29T08:34:18.841Z"
+  },
+  "profile": {
+    "bio": "Most career yeah member pay. Unit why quickly fill kid. Eight anything free care money.\nPolicy green space everybody.\nHowever her support concern analysis. Whether people big shoulder teach.",
+    "avatar": "https://placekitten.com/691/932",
+    "skills": [
+      "analysis",
+      "mathematics",
+      "python",
+      "excel"
+    ]
+  },
+  "is_active": true,
+  "email": "james.jessica@instructor.eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2afade87aa09a1f6baa7"
+  },
+  "userId": "user_20",
+  "firstname": "Doe",
+  "lastname": "Davis",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2024-09-02T08:34:18.843Z"
+  },
+  "profile": {
+    "bio": "Case capital quickly your note interesting. Ahead item knowledge high travel.\nSing including interest huge sing. Defense marriage not per structure. Institution society try population sell her.",
+    "avatar": "https://placekitten.com/61/426",
+    "skills": [
+      "analysis",
+      "python",
+      "sql",
+      "excel"
+    ]
+  },
+  "is_active": false,
+  "email": "doe.davis@instructor.eduhub.com"
+},
+{
+  "_id": {
+    "$oid": "68de2b01de87aa09a1f6bafa"
+  },
+  "userId": "user_21",
+  "firstname": "Mayowa",
+  "lastname": "Williams",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-02T08:34:25.301Z"
+  },
+  "profile": {
+    "bio": "Updated bio for Mayowa",
+    "avatar": "https://new-avatar-url.com/avatar.jpg",
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  "is_active": true,
+  "email": "mayowa.williams@example.com"
+}]

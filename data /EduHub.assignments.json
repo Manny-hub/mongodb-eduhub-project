@@ -1,0 +1,740 @@
+[{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad8"
+  },
+  "assignmentId": "a_0000",
+  "dueDate": {
+    "$date": "2025-10-20T08:34:22.751Z"
+  },
+  "lessonId": "lesson_395",
+  "courseId": "DAS",
+  "description": "Complete the assignment for JavaScript",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 59
+    },
+    {
+      "studentId": "user_2",
+      "grade": 86
+    },
+    {
+      "studentId": "user_3",
+      "grade": 88
+    },
+    {
+      "studentId": "user_4",
+      "grade": 68
+    },
+    {
+      "studentId": "user_5",
+      "grade": 87
+    },
+    {
+      "studentId": "user_6",
+      "grade": 63
+    },
+    {
+      "studentId": "user_7",
+      "grade": 68
+    },
+    {
+      "studentId": "user_8",
+      "grade": 62
+    },
+    {
+      "studentId": "user_9",
+      "grade": 97
+    },
+    {
+      "studentId": "user_10",
+      "grade": 93
+    },
+    {
+      "studentId": "user_11",
+      "grade": 82
+    },
+    {
+      "studentId": "user_12",
+      "grade": 77
+    },
+    {
+      "studentId": "user_13",
+      "grade": 72
+    },
+    {
+      "studentId": "user_14",
+      "grade": 88
+    },
+    {
+      "studentId": "user_15",
+      "grade": 77
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bad9"
+  },
+  "assignmentId": "a_0001",
+  "dueDate": {
+    "$date": "2025-10-08T08:34:22.751Z"
+  },
+  "lessonId": "lesson_448",
+  "courseId": "DEG",
+  "description": "Complete the assignment for MongoDB",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 95
+    },
+    {
+      "studentId": "user_2",
+      "grade": 70
+    },
+    {
+      "studentId": "user_3",
+      "grade": 73
+    },
+    {
+      "studentId": "user_4",
+      "grade": 80
+    },
+    {
+      "studentId": "user_5",
+      "grade": 61
+    },
+    {
+      "studentId": "user_6",
+      "grade": 67
+    },
+    {
+      "studentId": "user_7",
+      "grade": 99
+    },
+    {
+      "studentId": "user_8",
+      "grade": 57
+    },
+    {
+      "studentId": "user_9",
+      "grade": 91
+    },
+    {
+      "studentId": "user_10",
+      "grade": 96
+    },
+    {
+      "studentId": "user_11",
+      "grade": 69
+    },
+    {
+      "studentId": "user_12",
+      "grade": 54
+    },
+    {
+      "studentId": "user_13",
+      "grade": 86
+    },
+    {
+      "studentId": "user_14",
+      "grade": 75
+    },
+    {
+      "studentId": "user_15",
+      "grade": 67
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bada"
+  },
+  "assignmentId": "a_0002",
+  "dueDate": {
+    "$date": "2025-10-21T08:34:22.751Z"
+  },
+  "lessonId": "lesson_327",
+  "courseId": "JSC",
+  "description": "Complete the assignment for MongoDB",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 55
+    },
+    {
+      "studentId": "user_2",
+      "grade": 85
+    },
+    {
+      "studentId": "user_3",
+      "grade": 82
+    },
+    {
+      "studentId": "user_4",
+      "grade": 64
+    },
+    {
+      "studentId": "user_5",
+      "grade": 91
+    },
+    {
+      "studentId": "user_6",
+      "grade": 63
+    },
+    {
+      "studentId": "user_7",
+      "grade": 64
+    },
+    {
+      "studentId": "user_8",
+      "grade": 98
+    },
+    {
+      "studentId": "user_9",
+      "grade": 85
+    },
+    {
+      "studentId": "user_10",
+      "grade": 71
+    },
+    {
+      "studentId": "user_11",
+      "grade": 88
+    },
+    {
+      "studentId": "user_12",
+      "grade": 83
+    },
+    {
+      "studentId": "user_13",
+      "grade": 72
+    },
+    {
+      "studentId": "user_14",
+      "grade": 88
+    },
+    {
+      "studentId": "user_15",
+      "grade": 62
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6badb"
+  },
+  "assignmentId": "a_0003",
+  "dueDate": {
+    "$date": "2025-10-06T08:34:22.751Z"
+  },
+  "lessonId": "lesson_483",
+  "courseId": "JSC",
+  "description": "Complete the assignment for Data Visualization",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 95
+    },
+    {
+      "studentId": "user_2",
+      "grade": 78
+    },
+    {
+      "studentId": "user_3",
+      "grade": 52
+    },
+    {
+      "studentId": "user_4",
+      "grade": 53
+    },
+    {
+      "studentId": "user_5",
+      "grade": 92
+    },
+    {
+      "studentId": "user_6",
+      "grade": 76
+    },
+    {
+      "studentId": "user_7",
+      "grade": 92
+    },
+    {
+      "studentId": "user_8",
+      "grade": 77
+    },
+    {
+      "studentId": "user_9",
+      "grade": 76
+    },
+    {
+      "studentId": "user_10",
+      "grade": 94
+    },
+    {
+      "studentId": "user_11",
+      "grade": 92
+    },
+    {
+      "studentId": "user_12",
+      "grade": 54
+    },
+    {
+      "studentId": "user_13",
+      "grade": 62
+    },
+    {
+      "studentId": "user_14",
+      "grade": 72
+    },
+    {
+      "studentId": "user_15",
+      "grade": 85
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6badc"
+  },
+  "assignmentId": "a_0004",
+  "dueDate": {
+    "$date": "2025-10-03T08:34:22.751Z"
+  },
+  "lessonId": "lesson_335",
+  "courseId": "PYT",
+  "description": "Complete the assignment for JavaScript",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 79
+    },
+    {
+      "studentId": "user_2",
+      "grade": 80
+    },
+    {
+      "studentId": "user_3",
+      "grade": 51
+    },
+    {
+      "studentId": "user_4",
+      "grade": 65
+    },
+    {
+      "studentId": "user_5",
+      "grade": 70
+    },
+    {
+      "studentId": "user_6",
+      "grade": 85
+    },
+    {
+      "studentId": "user_7",
+      "grade": 90
+    },
+    {
+      "studentId": "user_8",
+      "grade": 69
+    },
+    {
+      "studentId": "user_9",
+      "grade": 60
+    },
+    {
+      "studentId": "user_10",
+      "grade": 89
+    },
+    {
+      "studentId": "user_11",
+      "grade": 85
+    },
+    {
+      "studentId": "user_12",
+      "grade": 72
+    },
+    {
+      "studentId": "user_13",
+      "grade": 67
+    },
+    {
+      "studentId": "user_14",
+      "grade": 84
+    },
+    {
+      "studentId": "user_15",
+      "grade": 78
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6badd"
+  },
+  "assignmentId": "a_0005",
+  "dueDate": {
+    "$date": "2025-10-15T08:34:22.751Z"
+  },
+  "lessonId": "lesson_185",
+  "courseId": "DSI",
+  "description": "Complete the assignment for JavaScript",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 50
+    },
+    {
+      "studentId": "user_2",
+      "grade": 55
+    },
+    {
+      "studentId": "user_3",
+      "grade": 65
+    },
+    {
+      "studentId": "user_4",
+      "grade": 70
+    },
+    {
+      "studentId": "user_5",
+      "grade": 54
+    },
+    {
+      "studentId": "user_6",
+      "grade": 84
+    },
+    {
+      "studentId": "user_7",
+      "grade": 84
+    },
+    {
+      "studentId": "user_8",
+      "grade": 51
+    },
+    {
+      "studentId": "user_9",
+      "grade": 63
+    },
+    {
+      "studentId": "user_10",
+      "grade": 53
+    },
+    {
+      "studentId": "user_11",
+      "grade": 63
+    },
+    {
+      "studentId": "user_12",
+      "grade": 91
+    },
+    {
+      "studentId": "user_13",
+      "grade": 78
+    },
+    {
+      "studentId": "user_14",
+      "grade": 86
+    },
+    {
+      "studentId": "user_15",
+      "grade": 61
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bade"
+  },
+  "assignmentId": "a_0006",
+  "dueDate": {
+    "$date": "2025-10-19T08:34:22.751Z"
+  },
+  "lessonId": "lesson_486",
+  "courseId": "DEG",
+  "description": "Complete the assignment for MongoDB",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 79
+    },
+    {
+      "studentId": "user_2",
+      "grade": 82
+    },
+    {
+      "studentId": "user_3",
+      "grade": 91
+    },
+    {
+      "studentId": "user_4",
+      "grade": 65
+    },
+    {
+      "studentId": "user_5",
+      "grade": 61
+    },
+    {
+      "studentId": "user_6",
+      "grade": 67
+    },
+    {
+      "studentId": "user_7",
+      "grade": 59
+    },
+    {
+      "studentId": "user_8",
+      "grade": 76
+    },
+    {
+      "studentId": "user_9",
+      "grade": 95
+    },
+    {
+      "studentId": "user_10",
+      "grade": 59
+    },
+    {
+      "studentId": "user_11",
+      "grade": 56
+    },
+    {
+      "studentId": "user_12",
+      "grade": 56
+    },
+    {
+      "studentId": "user_13",
+      "grade": 88
+    },
+    {
+      "studentId": "user_14",
+      "grade": 93
+    },
+    {
+      "studentId": "user_15",
+      "grade": 63
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6badf"
+  },
+  "assignmentId": "a_0007",
+  "dueDate": {
+    "$date": "2025-10-04T08:34:22.751Z"
+  },
+  "lessonId": "lesson_248",
+  "courseId": "DVI",
+  "description": "Complete the assignment for MongoDB",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 77
+    },
+    {
+      "studentId": "user_2",
+      "grade": 72
+    },
+    {
+      "studentId": "user_3",
+      "grade": 59
+    },
+    {
+      "studentId": "user_4",
+      "grade": 87
+    },
+    {
+      "studentId": "user_5",
+      "grade": 80
+    },
+    {
+      "studentId": "user_6",
+      "grade": 76
+    },
+    {
+      "studentId": "user_7",
+      "grade": 73
+    },
+    {
+      "studentId": "user_8",
+      "grade": 99
+    },
+    {
+      "studentId": "user_9",
+      "grade": 58
+    },
+    {
+      "studentId": "user_10",
+      "grade": 61
+    },
+    {
+      "studentId": "user_11",
+      "grade": 97
+    },
+    {
+      "studentId": "user_12",
+      "grade": 60
+    },
+    {
+      "studentId": "user_13",
+      "grade": 90
+    },
+    {
+      "studentId": "user_14",
+      "grade": 68
+    },
+    {
+      "studentId": "user_15",
+      "grade": 75
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bae0"
+  },
+  "assignmentId": "a_0008",
+  "dueDate": {
+    "$date": "2025-10-20T08:34:22.751Z"
+  },
+  "lessonId": "lesson_278",
+  "courseId": "DVI",
+  "description": "Complete the assignment for Data Analysis",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 99
+    },
+    {
+      "studentId": "user_2",
+      "grade": 50
+    },
+    {
+      "studentId": "user_3",
+      "grade": 98
+    },
+    {
+      "studentId": "user_4",
+      "grade": 50
+    },
+    {
+      "studentId": "user_5",
+      "grade": 50
+    },
+    {
+      "studentId": "user_6",
+      "grade": 55
+    },
+    {
+      "studentId": "user_7",
+      "grade": 55
+    },
+    {
+      "studentId": "user_8",
+      "grade": 96
+    },
+    {
+      "studentId": "user_9",
+      "grade": 82
+    },
+    {
+      "studentId": "user_10",
+      "grade": 60
+    },
+    {
+      "studentId": "user_11",
+      "grade": 83
+    },
+    {
+      "studentId": "user_12",
+      "grade": 91
+    },
+    {
+      "studentId": "user_13",
+      "grade": 55
+    },
+    {
+      "studentId": "user_14",
+      "grade": 55
+    },
+    {
+      "studentId": "user_15",
+      "grade": 66
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68de2afede87aa09a1f6bae1"
+  },
+  "assignmentId": "a_0009",
+  "dueDate": {
+    "$date": "2025-10-09T08:34:22.751Z"
+  },
+  "lessonId": "lesson_483",
+  "courseId": "DVI",
+  "description": "Complete the assignment for Data Engineering",
+  "grades": [
+    {
+      "studentId": "user_1",
+      "grade": 86
+    },
+    {
+      "studentId": "user_2",
+      "grade": 54
+    },
+    {
+      "studentId": "user_3",
+      "grade": 62
+    },
+    {
+      "studentId": "user_4",
+      "grade": 88
+    },
+    {
+      "studentId": "user_5",
+      "grade": 60
+    },
+    {
+      "studentId": "user_6",
+      "grade": 50
+    },
+    {
+      "studentId": "user_7",
+      "grade": 74
+    },
+    {
+      "studentId": "user_8",
+      "grade": 94
+    },
+    {
+      "studentId": "user_9",
+      "grade": 68
+    },
+    {
+      "studentId": "user_10",
+      "grade": 55
+    },
+    {
+      "studentId": "user_11",
+      "grade": 87
+    },
+    {
+      "studentId": "user_12",
+      "grade": 82
+    },
+    {
+      "studentId": "user_13",
+      "grade": 74
+    },
+    {
+      "studentId": "user_14",
+      "grade": 53
+    },
+    {
+      "studentId": "user_15",
+      "grade": 75
+    }
+  ]
+}]
