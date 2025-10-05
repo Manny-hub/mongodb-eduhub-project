@@ -72,49 +72,45 @@ def insert_sample_users(n_students=16, n_instructors=4):
     Default: 16 students and 4 instructors.
     """
     from faker import Faker
-    #user data 
     fake = Faker()
-    
-    # Adding students and instructors programmatically
-    
-    firstname = ["Adams", "John", "Cooper", "Doe", "Jane", "Smith", "Emily", "Johnson", "Oladele", "Michael", "Brown", "Sarah", "Williams", "David", "Adebayo", "Bamidele","Jones", "Linda", "Miller", "James"]
-    
-    lastname = ["Ruth", "Alice", "Davis", "Robert", "Mary", "Grace", "Patricia", "Martinez", "Jennifer", "Pelumi", "Elizabeth", "Betrice", "Barbara", "John", "Susan", "Wilson","Jessica", "Anderson", "Sarah", "Thomas"]
-    
-    skills = ["mathematics", "programming", "python", "sql", "excel", "analysis"]
-    
+
     users = []
-    
-    for i in range(20):  # Adding 20 sample students
+    # Create students
+    for i in range(1, n_students + 1):
         user = {
-            "_id" : ObjectId(), 
-            "userId": f"user_{i + 1}",
-            "firstname": random.choice(firstname),
-            "lastname": random.choice(lastname),
-            "role": "student" if i < 15 else "instructor",
-            "dateJoined": datetime.now() - timedelta(days=random.randint(0, 500)),
-            "profile": {
-                "bio": fake.text(max_nb_chars=200),
-                "avatar": fake.image_url(),
-                "skills": random.sample(skills, random.randint(1, 5))
-            },
-            "is_active": random.choice([True, True, False])
+            "userId": f"user_{i}",
+            "email": f"student{i}@example.com",
+            "firstname": fake.first_name(),
+            "lastname": fake.last_name(),
+            "role": "student",
+            "dateJoined": datetime.now() - timedelta(days=random.randint(0, 400)),
+            "profile": {"bio": fake.sentence(), "avatar": "", "skills": []},
+            "is_active": True
         }
-        email = f"{user['firstname'].lower()}.{user['lastname'].lower()}@eduhub.com" if user["role"] == "student" \
-            else f"{user['firstname'].lower()}.{user['lastname'].lower()}@instructor.eduhub.com"
-        user["email"] = email
         users.append(user)
 
+    # Create instructors
+    for j in range(n_students + 1, n_students + 1 + n_instructors):
+        user = {
+            "userId": f"user_{j}",
+            "email": f"instructor{j}@example.com",
+            "firstname": fake.first_name(),
+            "lastname": fake.last_name(),
+            "role": "instructor",
+            "dateJoined": datetime.now() - timedelta(days=random.randint(0, 1000)),
+            "profile": {"bio": fake.sentence(), "avatar": "", "skills": ["teaching"]},
+            "is_active": True
+        }
+        users.append(user)
 
-def insert_many_documents(collection, documents):
-    try:
-        result = collection.insert_many(documents)
-        return result.inserted_ids
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return []
-
-
+    if EXECUTE:
+        try:
+            res = users_col.insert_many(users)
+            safe_print("Inserted users", len(res.inserted_ids))
+        except DuplicateKeyError as e:
+            safe_print("DuplicateKeyError during users insert", e.details)
+    else:
+        safe_print("Dry run - would insert users", len(users))
 
 
 def insert_sample_courses():
